@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p style="font-family: 'Great Vibes', cursive;">Vous pouvez visualiser ce style en visitant <a href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap" target="_blank">Google Fonts</a>.</p>
 
 <!-- Style inline pour le <h2> -->
-<h2 align="left" style="font-family: 'Great Vibes', cursive;">Hi 👋! My name is BELIN Kévin and I'm a Web and Mobile Web Developer, from Bordeaux</h2>
+<h2>Hi 👋! My name is BELIN Kévin and I'm a Web and Mobile Web Developer, from Bordeaux</h2>
 
 
 ###
