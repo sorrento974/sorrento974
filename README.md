@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left" style="font-family: 'Nunito Sans', sans-serif;">Hi 👋! My name is BELIN Kévin and I'm a Web and Mobile Web Developer, from Bordeaux</h2>
+<h2 align="left" style="font-family: 'Nunito Sans', sans-serif;">Hi 👋! My name is BELIN Kévin and I'm a Web and Mobile Web Developer, from Bordeaux</h2></br>
 
 
 
