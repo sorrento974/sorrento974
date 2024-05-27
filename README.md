@@ -41,6 +41,8 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" /></br></br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="30" alt="sql logo"  />
+  <img width="12" /></br></br>
 
 
 ###
@@ -58,7 +60,6 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<!--<img src="https://raw.githubusercontent.com/sorrento974/sorrento974/output/snake.svg" alt="Snake animation" />-->
 
 ###
-![Animation de serpent]( https://raw.githubusercontent.com/sorrento974/sorrento974/output/github-contribution-grid-snake-dark.svg )
+<!--![Animation de serpent]( https://raw.githubusercontent.com/sorrento974/sorrento974/output/github-contribution-grid-snake-dark.svg alt="Snake animation")-->
