@@ -61,3 +61,4 @@ Here are some ideas to get you started:
 <!--<img src="https://raw.githubusercontent.com/sorrento974/sorrento974/output/snake.svg" alt="Snake animation" />-->
 
 ###
+![Animation de serpent]( https://raw.githubusercontent.com/sorrento974/sorrento974/output/github-contribution-grid-snake-dark.svg )
