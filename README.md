@@ -49,7 +49,10 @@ Here are some ideas to get you started:
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a></p>
-(https://giphy.com/gifs/PembeThePinkCat-cute-pembe-the-pink-cat-nFLW7PNGgN3lI68rdv)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif" width="480" height="480" alt="Cute Pembe the Pink Cat" />
+</p>
 
 <!--<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
