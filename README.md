@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">Hi 👋! My name is BELIN Kévin and I'm a Web and Web Mobile Developer, from Bordeaux</h2>
+<h2 align="left">Hi 👋! My name is BELIN Kévin and I'm a Web and Mobile Web Developer, from Bordeaux</h2>
 
 ###
 
@@ -60,6 +60,6 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sorrento974/sorrento974/output/snake.svg" alt="Snake animation" />
 
 ###
