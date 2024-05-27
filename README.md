@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a></p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif" width="480" height="480" alt="Cute Pembe the Pink Cat" />
+<p align="right">
+  <img src="https://media.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif" width="240" height="240" alt="Cute Pembe the Pink Cat" />
 </p>
 
 <!--<div align="center">
