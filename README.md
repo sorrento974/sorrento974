@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Cover](https://github.com/sorrento974/sorrento974/blob/main/img/github-header-image.png)
 <!--
 **sorrento974/sorrento974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
