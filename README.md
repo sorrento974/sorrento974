@@ -1,9 +1,5 @@
 
 ![Cover](https://github.com/sorrento974/sorrento974/blob/main/img/github-header-image.png)</br></br>
-<head> <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Sevillana&display=swap" rel="stylesheet">
-</head>
 <!--
 **sorrento974/sorrento974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,8 +23,8 @@
 
 - ⚡ Fun fact **a**-->
 
-<h2 align="center" style="font-family: "Sevillana", cursive;"">Hi 👋! My name is BELIN Kévin</h2> 
-<h2 align="center" style="font-family: "Sevillana", cursive;">I'm a Web and Mobile Web Developer, from Bordeaux</h2></br></br>
+<h2 align="center" >Hi 👋! My name is BELIN Kévin</h2> 
+<h2 align="center" >I'm a Web and Mobile Web Developer, from Bordeaux</h2></br></br>
 
 
 ###
