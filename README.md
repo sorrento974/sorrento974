@@ -1,4 +1,5 @@
-
+<head> <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto&display=swap">
+</head>
 ![Cover](https://github.com/sorrento974/sorrento974/blob/main/img/github-header-image.png)</br></br>
 <!--
 **sorrento974/sorrento974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,8 +24,8 @@
 
 - ⚡ Fun fact **a**-->
 
-<h2 align="center" style="font-family: 'Nunito Sans', sans-serif;">Hi 👋! My name is BELIN Kévin</h2> 
-<h2 align="center">I'm a Web and Mobile Web Developer, from Bordeaux</h2></br></br>
+<h2 align="center" style="font-family: 'Roboto', sans-serif;"">Hi 👋! My name is BELIN Kévin</h2> 
+<h2 align="center" style="font-family: 'Roboto', sans-serif;">I'm a Web and Mobile Web Developer, from Bordeaux</h2></br></br>
 
 
 ###
