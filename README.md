@@ -58,4 +58,4 @@
 
 
 ###
-![Animation de serpent]( https://raw.githubusercontent.com/sorrento974/sorrento974/output/github-contribution-grid-snake-dark.svg alt="Snake animation")
+![snake gif](https://github.com/sorrento974/sorrento974/blob/output/github-contribution-grid-snake-dark.svg)
